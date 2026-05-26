@@ -1,10 +1,10 @@
-# grok-tufte-viz-skill — Staging Area
+# grok-tufte-viz-skill
 
 This directory contains an adapted version of the excellent **tufte-viz** skill originally published as a Claude Code skill in this gist:
 
 **Source:** https://gist.github.com/aparente/e48c353755958621b3c0004593105a90
 
-The goal of this staging folder (inside the self-bio repo) is to prepare a clean, Grok-CLI-native version of the skill before importing it into the user's personal `~/.grok/skills/` collection (or a project-local `.grok/skills/`).
+The goal of this staging folder is to prepare a clean, Grok-CLI-native version of the skill before importing it into the user's personal `~/.grok/skills/` collection (or a project-local `.grok/skills/`).
 
 ## Final Skill Name (after import)
 
@@ -110,6 +110,4 @@ The original content and structure come from the gist by aparente (https://gist.
 4. Test with real visualization tasks.
 5. Iterate (this staging folder makes future tweaks easy before re-importing).
 
----
 
-*Staging folder created in the self-bio workspace for controlled adaptation.*
